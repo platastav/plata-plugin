@@ -1,0 +1,11 @@
+{
+  "name": "plata",
+  "version": "1.0.0",
+  "description": "Операционная система ювелирной мастерской Plata — скиллы для работы с клиентами, производством, контентом и автоматизацией",
+  "author": {
+    "name": "Plata Workshop"
+  },
+  "license": "MIT",
+  "keywords": ["jewelry", "plata", "crm", "workshop"],
+  "skills": "./skills"
+}
